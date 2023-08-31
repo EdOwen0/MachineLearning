@@ -1,0 +1,3 @@
+C:\Users\Ed\OneDrive\workshop\Mod 5 and Machine Learning\demos\MachineLearning\x64\Debug\MachineLearning.exe
+C:\Users\Ed\OneDrive\da other spell\workshop\Mod 5 and Machine Learning\demos\MachineLearning\x64\Debug\MachineLearning.exe
+C:\Users\Ed\OneDrive\da other spell\workshop\Mod 4 and Machine Learning\demos\MachineLearning\x64\Debug\MachineLearning.exe
